@@ -1,1 +1,1 @@
-# boaz-kafka-practice
+# 보아즈 카프카 실습파일
